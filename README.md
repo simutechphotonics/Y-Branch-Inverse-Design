@@ -8,7 +8,7 @@ A port of the Lumerical [Y-branch Inverse Design example](https://optics.ansys.c
 
 
 
-\## Requirements
+## Requirements
 
 * Python 3
 * Lumerical FDTD
@@ -18,7 +18,7 @@ A port of the Lumerical [Y-branch Inverse Design example](https://optics.ansys.c
 
 
 
-\## How to Use
+## How to Use
 
 Run `y_branch_opt_2D_lumopt2.py` and the optimization will run to completion (maximum 30 iterations by default). Upon completion, 2 files will be created. The first is `y_branch_2D_lumopt2_INITIAL.fsp` which is the starting design. The second is `y_branch_2D_lumopt2_FINAL.fsp` which is the final optimized design.
 
@@ -28,7 +28,7 @@ Inside the folder there is a subfolder named `process plot` which saves the plot
 
 
 
-\## Results
+## Results
 
 ![Process Animation](img/optimization.gif)
 
