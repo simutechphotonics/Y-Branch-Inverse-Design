@@ -32,7 +32,7 @@ Inside the folder there is a subfolder named `process plot` which saves the plot
 
 ![Process Animation](img/optimization.gif)
 
-![Final Geometry](img/3D cad.png)
+![Final Geometry]("img/3D%20cad.png")
 
 
 
